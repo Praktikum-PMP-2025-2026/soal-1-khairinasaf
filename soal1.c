@@ -3,7 +3,7 @@
  *   Hari dan Tanggal    : Rabu, 22 April 2026
  *   Nama (NIM)          : Khairina Safira Nurazizah (13224021)
  *   Nama File           : 
- *   Deskripsi           : Menghitung nilai statistik array, mencari sum, average, max, dan index nilai max.
+ *   Deskripsi           : Menghitung nilai statistik array, mencari sum, average, max, dan index nilai max
  * 
  */
 
@@ -56,6 +56,8 @@ int main(){
     printf("AVG %.2f\n", avg);
     printf("MAX %d\n", max);
     printf("IDX %d", idx);
+
+    return 0;
 }
 
 /*
